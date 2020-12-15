@@ -1,0 +1,33 @@
+
+div {
+    border: 3px solid royalblue !important;
+  }
+  p {
+    color: skyblue;
+    
+  }
+  h2{
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
+  .block-1
+  {
+    background-color: aqua;
+  }
+  #block-2
+  {
+    background-color: cornflowerblue;
+  }
+
+  .text p{
+    background-color: darkcyan;
+    width: 500px;
+    margin: auto;
+    color: tomato;
+    font-size: 30px;
+    letter-spacing: 1px;
+
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
